@@ -8,4 +8,10 @@ The advisers for this project were Donghyeon Park and Jaewoo Kang, [DMIS Researc
 From this works, we (Jinheon Baek and Soyeong Jeong) got first prize at Graduation Competition.
 
 # Contents
-The contents this repositiory holds are as follows.
+The contents this repositiory holds are as follows. <br>
+Most of the contents published are in Korean.
+
+1. Final Report
+
+# ETC
+This repository is unavoidably open, since we are supported by IITP.
